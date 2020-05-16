@@ -6,12 +6,12 @@ def create_an_array
   array = ["star", "moon", "sun", "tree"]
 end
 
-def add_element_to_end_of_array
+def add_element_to_end_of_array(array, element)
   nature << "river"
 end
 
 def add_element_to_start_of_array(array, element)
-  nature.unshift ground
+  array.unshift ground
 end
 
 def remove_element_from_end_of_array(array)
