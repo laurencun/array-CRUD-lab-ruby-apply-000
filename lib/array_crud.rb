@@ -10,6 +10,8 @@ def add_element_to_end_of_array(array, element)
   nature << "river"
 end
 
+add_element_to_end_of_array(nature, "river")
+
 def add_element_to_start_of_array(array, element)
   
 end
