@@ -6,7 +6,7 @@ def create_an_array
   array = ["star", "moon", "sun", "tree"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array
   nature << "river"
 end
 
